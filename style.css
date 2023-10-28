@@ -2,9 +2,6 @@ body {
     font-family: "Montserrat", sans-serif;
     background: #faf5f5;
 }
-aside {
-    background: black;
-}
 
 .wrapper {
     display: flex;
@@ -14,28 +11,4 @@ aside {
     margin: 0 auto;
     background: #fff;
     box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
-}
-
-.main-description {
-    background: red;
-    margin: 20px 40px 20px 40px;
-    padding: 40px 10px 5px 3px;
-}
-
-.block-2 {
-    background: rgb(136, 238, 136);
-    margin: 10px;
-    padding: 50px;
-}
-
-li {
-    color: green;
-}
-
-h2 {
-    color: red;
-}
-
-.description {
-    color: blue;
 }
